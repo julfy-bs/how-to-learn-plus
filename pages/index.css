@@ -1,7 +1,14 @@
 @import url('../vendor/normalize.css');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 @import url('../blocks/root/root.css');
+@import url('../blocks/link/link.css');
 @import url('../blocks/page/page.css');
 @import url('../blocks/header/header.css');
+@import url('../blocks/header/__title/header__title.css');
+@import url('../blocks/header/__subtitle/header__subtitle.css');
+@import url('../blocks/main-illustration/main-illustration.css');
+@import url('../blocks/main-illustration/__image/main-illustration__image.css');
+@import url('../blocks/header/__main-illustration/header__main-illustration.css');
+@import url('../blocks/header/__square-pic/header__square-pic.css');
 @import url('../blocks/logo/logo.css');
-
+@import url('../blocks/logo/_color/logo_color_black.css');
