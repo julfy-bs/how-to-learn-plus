@@ -1,4 +1,4 @@
-## Проект созданный на курсе [Web+][yandex-practicum-web-plus] от [Yandex Практикум][yandex-practicum-url]
+## Проект выполнен на курсе [Web+][yandex-practicum-web-plus] от [Yandex Практикум][yandex-practicum-url]
 ***
 ### Как запустить проект локально?
 
