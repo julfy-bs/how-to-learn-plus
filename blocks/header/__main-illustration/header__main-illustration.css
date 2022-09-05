@@ -1,12 +1,6 @@
 .header__main-illustration {
-  /* Position */
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  z-index: 1;
   /* Size */
   width: 100%;
   max-width: 765px;
   max-height: 608px;
-  height: auto;
 }

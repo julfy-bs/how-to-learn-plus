@@ -1,0 +1,7 @@
+.two-columns {
+  /* Display */
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  gap: 30px;
+}

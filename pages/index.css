@@ -4,11 +4,21 @@
 @import url('../blocks/link/link.css');
 @import url('../blocks/page/page.css');
 @import url('../blocks/header/header.css');
-@import url('../blocks/header/__title/header__title.css');
-@import url('../blocks/header/__subtitle/header__subtitle.css');
-@import url('../blocks/main-illustration/main-illustration.css');
-@import url('../blocks/main-illustration/__image/main-illustration__image.css');
-@import url('../blocks/header/__main-illustration/header__main-illustration.css');
-@import url('../blocks/header/__square-pic/header__square-pic.css');
 @import url('../blocks/logo/logo.css');
 @import url('../blocks/logo/_color/logo_color_black.css');
+@import url('../blocks/header/__title/header__title.css');
+@import url('../blocks/header/__subtitle/header__subtitle.css');
+@import url('../blocks/header/__square-pic/header__square-pic.css');
+@import url('../blocks/header/__illustration-wrapper/header__illustration-wrapper.css');
+@import url('../blocks/header/__main-illustration/header__main-illustration.css');
+@import url('../blocks/description/description.css');
+@import url('../blocks/two-columns/two-columns.css');
+@import url('../blocks/two-columns/__brief/two-columns__brief.css');
+@import url('../blocks/two-columns/__main-text/two-columns__main-text.css');
+@import url('../blocks/two-columns/__paragraph/two-columns__paragraph.css');
+@import url('../blocks/two-columns/__span-accent/two-columns__span-accent.css');
+
+
+
+
+
