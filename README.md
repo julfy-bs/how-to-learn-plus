@@ -4,7 +4,7 @@
 
 ```
 # Клонировать проект
-git clone https://github.com/julfy-bs/how-to-learn
+git clone https://github.com/julfy-bs/learn-to-learn
 
 ```
 
