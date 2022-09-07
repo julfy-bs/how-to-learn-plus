@@ -1,0 +1,9 @@
+.cards__item {
+  /* Display */
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  /* Size */
+  max-width: 240px;
+  padding: 60px 0 0;
+}

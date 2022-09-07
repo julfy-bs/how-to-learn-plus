@@ -1,0 +1,12 @@
+.cards__description {
+  /* Font */
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  /* Size */
+  margin: 0;
+  padding: 0;
+  /* Position */
+  text-align: center;
+}
