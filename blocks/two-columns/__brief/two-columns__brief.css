@@ -1,6 +1,6 @@
 .two-columns__brief {
   /* Display */
-  flex: 1 0 auto;
+  flex-shrink: 0;
   /* Font */
   font-style: normal;
   font-weight: 400;
@@ -11,5 +11,4 @@
   /* Size */
   width: 175px;
   margin: 0;
-  padding: 0;
 }

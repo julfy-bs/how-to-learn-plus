@@ -1,11 +1,9 @@
-.cards__title {
+.table__heading {
   /* Font */
   font-style: normal;
   font-weight: 600;
   font-size: 24px;
   line-height: 115%;
-  /* Size */
-  margin: 0 0 16px;
-  /* Position */
-  text-align: center;
+/* Size */
+  margin: 0 0 20px;
 }

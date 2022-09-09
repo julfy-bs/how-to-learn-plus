@@ -1,11 +1,9 @@
-.cards__description {
+.table__text {
   /* Font */
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  line-height: 23px;
+  line-height: 120%;
   /* Size */
   margin: 0;
-  /* Position */
-  text-align: center;
 }
