@@ -1,7 +1,4 @@
 .techniques {
-  /* Display */
-  display: flex;
-  flex-flow: column nowrap;
   /* Size */
   max-width: 80%;
   padding-top: 100px;
