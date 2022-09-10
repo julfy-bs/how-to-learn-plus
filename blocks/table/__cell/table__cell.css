@@ -1,4 +1,8 @@
 .table__cell {
+  /* Display */
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 20px;
   /* Size */
   width: 250px;
 }

@@ -1,5 +1,5 @@
 @import url('../vendor/normalize.css');
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600');
 @import url('../blocks/root/root.css');
 @import url('../blocks/link/link.css');
 @import url('../blocks/page/page.css');
@@ -27,8 +27,16 @@
 @import url('../blocks/cards/__title/cards__title.css');
 @import url('../blocks/cards/__description/cards__description.css');
 @import url('../blocks/digits/digits.css');
+@import url('../blocks/digits/__section-title/digits__section-title.css');
 @import url('../blocks/table/table.css');
 @import url('../blocks/table/__cell/table__cell.css');
 @import url('../blocks/table/__heading/table__heading.css');
 @import url('../blocks/table/__text/table__text.css');
-
+@import url('../blocks/kaufman/kaufman.css');
+@import url('../blocks/kaufman/__section-title/kaufman__section-title.css');
+@import url('../blocks/section-title/_theme/section-title_theme_dark.css');
+@import url('../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css');
+@import url('../blocks/table/_theme/table_theme_dark.css');
+@import url('../blocks/table/__cell/_theme/table__cell_theme_dark.css');
+@import url('../blocks/table/__heading/_theme/table__heading_theme_dark.css');
+@import url('../blocks/table/__text/_theme/table__text_theme_dark.css');
