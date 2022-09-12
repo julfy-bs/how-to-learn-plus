@@ -1,0 +1,5 @@
+.footer__column {
+  /* Display */
+  display: flex;
+  flex-flow: column nowrap;
+}
