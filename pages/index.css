@@ -1,5 +1,5 @@
 @import url('../vendor/normalize.css');
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600');
+@import url('../vendor/fonts/fonts.css');
 @import url('../blocks/root/root.css');
 @import url('../blocks/link/link.css');
 @import url('../blocks/page/page.css');
