@@ -14,9 +14,9 @@
 
 ### Как запустить проект локально?
 
+Клонировать проект
 ```
-# Клонировать проект
-git clone https://github.com/julfy-bs/learn-to-learn
+git clone git@github.com:julfy-bs/how-to-learn-plus.git
 ```
 © Автор - [Сутужко Богдан][author-portfolio]
 
