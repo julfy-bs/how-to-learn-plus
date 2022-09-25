@@ -68,4 +68,8 @@
 @import url('../blocks/video/__iframe/video__iframe.css');
 @import url('../blocks/oakley/oakley.css');
 @import url('../blocks/section/_theme/section_theme_dark.css');
+@import url('../blocks/feynman/feynman.css');
+@import url('../blocks/feynman/__title/feynman__title.css');
+@import url('../blocks/feynman/__subtitle/feynman__subtitle.css');
+@import url('../blocks/feynman/__link/feynman__link.css');
 
