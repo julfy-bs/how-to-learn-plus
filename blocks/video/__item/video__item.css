@@ -1,0 +1,6 @@
+.video__item {
+  flex: 1 1 50%;
+  max-width: 515px;
+  width: 100%;
+  height: 316px;
+}
