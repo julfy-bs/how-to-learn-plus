@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git@github.com:julfy-bs/how-to-learn-plus.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/how-to-learn-plus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ю" vcs="Git" />
   </component>
 </project>
