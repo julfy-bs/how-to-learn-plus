@@ -1,0 +1,13 @@
+.video__list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 0;
+  margin: 50px 0 0;
+  list-style: none;
+}
+
+.video__list:first-child {
+  margin: 0;
+}

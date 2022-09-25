@@ -62,5 +62,8 @@
 @import url('../blocks/footer/__social-icon/footer__social-icon.css');
 @import url('../blocks/footer/__column/_content/footer__column_content_social.css');
 @import url('../blocks/animation/animation.css');
-
+@import url('../blocks/video/video.css');
+@import url('../blocks/video/__list/video__list.css');
+@import url('../blocks/video/__item/video__item.css');
+@import url('../blocks/video/__iframe/video__iframe.css');
 
