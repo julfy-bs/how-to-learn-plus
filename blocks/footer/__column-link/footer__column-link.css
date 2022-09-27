@@ -1,0 +1,18 @@
+.footer__column-link {
+  /* Display */
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  /* Font */
+  font-style: normal;
+  font-size: 16px;
+  line-height: 18px;
+  /* Style */
+  text-decoration: none;
+  color: #fff;
+}
+
+.footer__column-link:hover {
+  opacity: .5;
+}
+

@@ -1,0 +1,11 @@
+.cards__item {
+  margin: 0;
+  list-style: none;
+  /* Display */
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  /* Size */
+  width: 240px;
+  padding: 60px 0 0;
+}

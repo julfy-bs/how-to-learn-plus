@@ -1,0 +1,15 @@
+.kaufman {
+  /* Size */
+  padding: 90px 0;
+  /* Style */
+  /*
+    Этот цвет указан в фигме, не совсем понял, что значит "Цвет не из брифа"
+    background: #1D1D1D;
+*/
+  background-color: #1d1d1d;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

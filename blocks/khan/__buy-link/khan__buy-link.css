@@ -1,0 +1,10 @@
+.khan__buy-link {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 42px;
+  color: #2f80ed;
+  flex: 1 1 50%;
+  display: inline-flex;
+  height: fit-content;
+}
