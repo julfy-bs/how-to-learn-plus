@@ -5,6 +5,7 @@
   font-size: 60px;
   line-height: 115%;
   /* Size */
+  max-width: 60%;
   width: 60%;
   margin: 0 auto 20px;
   padding: 0;
